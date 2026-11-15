@@ -1,26 +1,27 @@
-# 学びと思考の記録
+
+---
+layout: default
+title: ホーム
+---
 
 本を読んだり、新しい技術を学んだりするなかで、
-自分が理解したこと、疑問に思ったこと、
-考え方が変わったことを記録しています。
+自分が理解したことや疑問に思ったことを記録しています。
 
-本の要約や解説ではなく、
-自分が何を学び、どう考えたかを中心に書いています。
+## 最近の記事
+
+{% assign posts = site.posts | sort: "date" | reverse %}
+{% for post in posts %}
+- {{ post.date | date: "%Y/%m/%d" }}  
+  [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
 
 ## 読書から学んだこと
 
-- [デッドラインから学んだこと](books/deadline.md)
-- [G検定の学習で考えたこと](books/g-kentei.md)
-
-## このサイトについて
-
-個人の学習記録です。
-記述には私自身の解釈や考察を含みます。
-
+- [デッドラインから学んだこと]({{ '/books/deadline.html' | relative_url }})
+- [G検定の学習で考えたこと]({{ '/books/g-kentei.html' | relative_url }})
 
 ---
 
 ※このサイトにはアフィリエイトリンクが含まれています。
 
-Amazonのアソシエイトとして、
-当サイトは適格販売により収入を得ています。
+Amazonのアソシエイトとして、当サイトは適格販売により収入を得ています。
