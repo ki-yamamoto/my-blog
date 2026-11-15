@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: "『デッドライン』から学んだこと"

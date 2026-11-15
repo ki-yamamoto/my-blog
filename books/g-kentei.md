@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: "「G検定公式テキスト」から学んだこと"

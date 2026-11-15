@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "ブログを日記形式に変更した"
