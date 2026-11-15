@@ -5,8 +5,6 @@ date: 2026-11-08 17:07:00 +0900
 categories: [ブログ][読書]
 ---
 
-[G検定公式テキストをAmazonで購入](https://link.amazon/B0brKBVav)
-
 # Mini-Max法とαβ法
 
 一番下の得点から順番に勝ち上がっていき、自分に有利・相手に有利という判断が交互に入る計算式がMini-Max法。
@@ -18,3 +16,5 @@ categories: [ブログ][読書]
 > 概念化の明示的な仕様 トム・グルーパー
 
 is-aとpart-of
+
+[G検定公式テキストをAmazonで購入](https://link.amazon/B0brKBVav)
