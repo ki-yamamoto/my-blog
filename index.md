@@ -18,6 +18,7 @@ title: "ホーム"
 
 - [デッドラインから学んだこと]({{ '/books/deadline.html' | relative_url }})
 - [G検定の学習で考えたこと]({{ '/books/g-kentei.html' | relative_url }})
+- [ザ・ゴールで学んだこと]({{ '/books/the-goal.html' | relative_url }})
 
 ---
 
