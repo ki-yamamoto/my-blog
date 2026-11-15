@@ -1,5 +1,9 @@
 
-# 『デッドライン』から学んだこと
+---
+layout: default
+title:『デッドライン』から学んだこと
+---
+
 
 [デッドラインをamazonで購入](https://link.amazon/B0cBwq0bZ)
 
