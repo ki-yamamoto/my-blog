@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "『デッドライン』から学んだこと"
 permalink: /books/deadline.html
 ---

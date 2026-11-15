@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "「ザ・ゴール」から学んだこと"
 permalink: /books/the-goal.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "「G検定公式テキスト」から学んだこと"
 permalink: /books/g-kentei.html
 ---
