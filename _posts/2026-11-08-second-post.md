@@ -2,7 +2,7 @@
 layout: post
 title: "「G検定公式テキスト」から学んだこと"
 date: 2026-11-08 17:07:00 +0900
-categories: [ブログ][読書]
+categories: [ブログ,読書]
 ---
 
 # Mini-Max法とαβ法
