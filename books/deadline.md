@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "『デッドライン』から学んだこと"
+permalink: /books/deadline.html
 ---
 
 
