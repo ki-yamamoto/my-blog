@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "「G検定公式テキスト」から学んだこと"
+permalink: /books/g-kentei.html
 ---
 
 [G検定公式テキストをAmazonで購入](https://link.amazon/B0brKBVav)
